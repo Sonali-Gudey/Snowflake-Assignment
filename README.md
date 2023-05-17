@@ -1,6 +1,6 @@
 # Snowflake-Assignment
 
-### Question-1: Create roles as per the below-mentioned hierarchy. Accountadmin already exists in Snowflake.
+### Question-1: Create roles as per the below-mentioned hierarchy. Accountadmin  already exists in Snowflake.
 
 ![image](https://github.com/Sonali-Gudey/Snowflake-Assignment/assets/123619701/1cc1b328-37e1-4d62-ad64-785ca5a5f6f6)
 
